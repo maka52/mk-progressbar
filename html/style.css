@@ -55,7 +55,6 @@ body {
 }
 
 .progress-bar-container {
-    background: rgba(0, 0, 0, 0.246);
     height: 2vh;
     position: relative;
     display: flex;
