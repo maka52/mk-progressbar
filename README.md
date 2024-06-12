@@ -2,6 +2,9 @@
 
 REPLACE 'progressbar' SCRIPT WITH THIS ONE IN THE 'standalone' FOLDER
 
+## Screenshots
+![Progress bar](https://i.imgur.com/yhUFc1O.jpeg)
+
 # Usage
 
 ## QB-Core Functions
